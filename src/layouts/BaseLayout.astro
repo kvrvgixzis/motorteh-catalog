@@ -1,0 +1,50 @@
+---
+export interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content="Продажа моечного оборудования. Компания Мотор технология, г. Нижний Новгород" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="stylesheet" href="/styles/global.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="/" class="logo">Мотор технология</a>
+      <div class="nav-links">
+        <a href="/catalog/">Каталог</a>
+        <a href="/contacts/">Контакты</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <div class="footer-col">
+        <strong>Компания «Мотор технология»</strong><br />
+        г. Нижний Новгород, ул. Заовражная, д. 7
+      </div>
+      <div class="footer-col">
+        Тел. (831) 466-32-84<br />
+        Тел. (831) 413-93-16
+      </div>
+      <div class="footer-col">
+        <a href="mailto:motorteh.port@yandex.ru">motorteh.port@yandex.ru</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.astro/
+
+# Old site source
+_source/
+
+# Data extraction artifacts
+_extract*.py
+_extracted_data.json
+_generate_content.py
+
+# OS
+.DS_Store
+Thumbs.db
