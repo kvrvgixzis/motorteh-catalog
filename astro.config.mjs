@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/motorteh-catalog/',
   output: 'static',
   markdown: {
-    remarkPlugins: [remarkBaseUrl],
+    remarkPlugins: [[remarkBaseUrl, { base: '/motorteh-catalog/' }]],
   },
 });

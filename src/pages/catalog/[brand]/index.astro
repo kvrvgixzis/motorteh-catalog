@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../../layouts/BaseLayout.astro';
-import { getCollection, render } from 'astro:content';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const allEntries = await getCollection('catalog');
@@ -26,11 +26,14 @@ export async function getStaticPaths() {
 
 const base = import.meta.env.BASE_URL;
 const { brand } = Astro.params;
-const { brandEntry, children } = Astro.props;
+const { brandEntry, children } = Astro.props as {
+  brandEntry: CollectionEntry<'catalog'> | undefined;
+  children: CollectionEntry<'catalog'>[];
+};
 
 const sortedChildren = children
-  .filter((c: any) => !c.data.hidden)
-  .sort((a: any, b: any) => a.data.sort - b.data.sort);
+  .filter((c) => !c.data.hidden)
+  .sort((a, b) => a.data.sort - b.data.sort);
 
 let BrandContent: any = null;
 if (brandEntry?.body?.trim() && sortedChildren.length === 0) {
@@ -57,7 +60,7 @@ if (brandEntry?.body?.trim() && sortedChildren.length === 0) {
   {
     sortedChildren.length > 0 ? (
       <div class="category-grid">
-        {sortedChildren.map((child: any) => (
+        {sortedChildren.map((child) => (
           <a href={`${base}catalog/${brand}/${child.id.split('/').pop()}/`} class="category-card">
             {child.data.icon && (
               <img src={`${base}${child.data.icon.replace(/^\//, '')}`} alt={child.data.title} />

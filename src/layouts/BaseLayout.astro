@@ -12,6 +12,7 @@ const base = import.meta.env.BASE_URL;
 const siteUrl = import.meta.env.SITE || 'https://kvrvgixzis.github.io';
 const canonicalUrl = new URL(Astro.url.pathname, siteUrl).href;
 const ogImage = image ? new URL(`${base}${image.replace(/^\//, '')}`, siteUrl).href : undefined;
+const currentPath = Astro.url.pathname;
 ---
 
 <!doctype html>
@@ -39,8 +40,8 @@ const ogImage = image ? new URL(`${base}${image.replace(/^\//, '')}`, siteUrl).h
       <nav>
         <a href={base} class="logo">Мотор технология</a>
         <div class="nav-links">
-          <a href={`${base}catalog/`}>Каталог</a>
-          <a href={`${base}contacts/`}>Контакты</a>
+          <a href={`${base}catalog/`} class={currentPath.startsWith(`${base}catalog`) ? 'active' : ''}>Каталог</a>
+          <a href={`${base}contacts/`} class={currentPath.startsWith(`${base}contacts`) ? 'active' : ''}>Контакты</a>
         </div>
       </nav>
     </header>
