@@ -1,7 +1,6 @@
 ---
 title: "Karcher"
-icon: "/images/icon1185431470.jpg"
+icon: "/images/icon-karcher.jpg"
 sort: 4
-oldId: 2
 ---
 
