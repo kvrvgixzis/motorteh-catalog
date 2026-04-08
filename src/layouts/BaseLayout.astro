@@ -31,7 +31,7 @@ const ogImage = image ? new URL(`${base}${image.replace(/^\//, '')}`, siteUrl).h
     <meta property="og:site_name" content="Мотор технология" />
     {ogImage && <meta property="og:image" content={ogImage} />}
 
-    <link rel="icon" type="image/x-icon" href={`${base}favicon.ico`} />
+    <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
     <link rel="stylesheet" href={`${base}styles/global.css`} />
   </head>
   <body>
