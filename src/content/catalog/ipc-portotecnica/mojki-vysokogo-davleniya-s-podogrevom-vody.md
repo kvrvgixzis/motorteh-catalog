@@ -28,7 +28,7 @@ oldId: 8
 <TD class=block  align=middle  bgColor=#eaeaea>Напряжение, В</TD>
 <TD class=block  align=middle  bgColor=#eaeaea>Масса, Кг</TD></TR>
 <TR>
-<TD><IMG height=177  alt=8.4Kb  src="http://motorteh.net//images/porto_6.jpg" width=118  border=0></TD>
+<TD><IMG height=177  alt=8.4Kb  src="/images/porto_6.jpg" width=118  border=0></TD>
 <TD class=block  width=180><B>MITHO P 1802 M</B></TD>
 <TD class=block  align=middle>&nbsp;120</TD>
 <TD class=block  align=middle>500</TD>
@@ -37,7 +37,7 @@ oldId: 8
 <TD class=block  align=middle>220</TD>
 <TD class=block  align=middle>57</TD></TR>
 <TR>
-<TD><IMG height=177  alt=8.4Kb  src="http://motorteh.net//images/porto_6.jpg" width=118  border=0></TD>
+<TD><IMG height=177  alt=8.4Kb  src="/images/porto_6.jpg" width=118  border=0></TD>
 <TD class=block  width=180><B>MITHO P 2202 M</B></TD>
 <TD class=block  align=middle>140</TD>
 <TD class=block  align=middle>500</TD>
@@ -46,7 +46,7 @@ oldId: 8
 <TD class=block  align=middle>220</TD>
 <TD class=block  align=middle>57</TD></TR>
 <TR>
-<TD><IMG height=108  alt=3.9Kb  src="http://motorteh.net//images/porto_1.jpg" width=117  border=0></TD>
+<TD><IMG height=108  alt=3.9Kb  src="/images/porto_1.jpg" width=117  border=0></TD>
 <TD class=block  width=180><B>UNIVERSE DS 2640 T 4</B></TD>
 <TD class=block  align=middle>30 - 180</TD>
 <TD class=block  align=middle>390 - 780</TD>
@@ -55,7 +55,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>95</TD></TR>
 <TR>
-<TD rowSpan=2><BR><IMG height=124  alt=3.9Kb  src="http://motorteh.net//images/porto_2.jpg" width=121  border=0></TD>
+<TD rowSpan=2><BR><IMG height=124  alt=3.9Kb  src="/images/porto_2.jpg" width=121  border=0></TD>
 <TD class=block  width=180><B>OPTIMA CMP DS 149 M</B></TD>
 <TD class=block  align=middle>30 - 140</TD>
 <TD class=block  align=middle>270 - 540</TD>
@@ -72,7 +72,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>109</TD></TR>
 <TR>
-<TD><IMG height=117  alt=3.7Kb  src="http://motorteh.net//images/porto_3.jpg" width=104  border=0></TD>
+<TD><IMG height=117  alt=3.7Kb  src="/images/porto_3.jpg" width=104  border=0></TD>
 <TD class=block  width=180><B>SILVER JET DS 2930 T</B></TD>
 <TD class=block  align=middle>30 - 200</TD>
 <TD class=block  align=middle>400 - 800</TD>
@@ -81,7 +81,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>105</TD></TR>
 <TR>
-<TD rowSpan=3><BR><IMG height=106  alt=23.3Kb  src="http://motorteh.net//images/1.png" width=118  border=0><BR></TD>
+<TD rowSpan=3><BR><IMG height=106  alt=23.3Kb  src="/images/1.png" width=118  border=0><BR></TD>
 <TD class=block  width=180><B>GALAX-H4&nbsp;&nbsp;&nbsp;&nbsp; D1310P4 М</B></TD>
 <TD class=block  align=middle>30-130</TD>
 <TD class=block  align=middle>300-600</TD>
@@ -106,7 +106,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>142</TD></TR>
 <TR>
-<TD><IMG height=104  alt=5.6Kb  src="http://motorteh.net//images/23.jpg" width=98  border=0></TD>
+<TD><IMG height=104  alt=5.6Kb  src="/images/23.jpg" width=98  border=0></TD>
 <TD class=block  width=180><B>SYNC-H D2017P T</B></TD>
 <TD class=block  align=middle>40-200</TD>
 <TD class=block  align=middle>500-1000</TD>
@@ -115,7 +115,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>155</TD></TR>
 <TR>
-<TD><IMG height=108  alt=19.7Kb  src="http://motorteh.net//images/2.png" width=112  border=0></TD>
+<TD><IMG height=108  alt=19.7Kb  src="/images/2.png" width=112  border=0></TD>
 <TD class=block  width=180><b>SYNC-H4 D2515P&nbsp; T</b></TD>
 <TD class=block  align=middle>30-250</TD>
 <TD class=block  align=middle>450-950</TD>
@@ -124,7 +124,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>172</TD></TR>
 <TR>
-<TD><IMG height=107  alt=3.4Kb  src="http://motorteh.net//images/porto_4.jpg" width=105  border=0></TD>
+<TD><IMG height=107  alt=3.4Kb  src="/images/porto_4.jpg" width=105  border=0></TD>
 <TD class=block  width=180><B>MISTRAL JET PROFY DS 2880 T</B></TD>
 <TD class=block  align=middle>30 - 190</TD>
 <TD class=block  align=middle>630 - 1260</TD>
@@ -133,7 +133,7 @@ oldId: 8
 <TD class=block  align=middle>380</TD>
 <TD class=block  align=middle>165</TD></TR>
 <TR>
-<TD><IMG height=117  alt=3.6Kb  src="http://motorteh.net//images/porto_5.jpg" width=127  border=0></TD>
+<TD><IMG height=117  alt=3.6Kb  src="/images/porto_5.jpg" width=127  border=0></TD>
 <TD class=block  width=180><B>HPS DS 2015 T</B></TD>
 <TD class=block  align=middle>40 - 200</TD>
 <TD class=block  align=middle>450 - 900</TD>

@@ -17,9 +17,9 @@ oldId: 25
 <table border="0" cellspacing="0" cellpadding="5">
 <tr>
 <td valign="bottom" width="50%"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/br400.jpg" width="120" height="229"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/br530.jpg" width="120" height="123"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/br550.jpg" width="120" height="124"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/br400.jpg" width="120" height="229"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/br530.jpg" width="120" height="123"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/br550.jpg" width="120" height="124"></td>
 <td valign="bottom" width="50%"></td>
 </tr>
 <tr>

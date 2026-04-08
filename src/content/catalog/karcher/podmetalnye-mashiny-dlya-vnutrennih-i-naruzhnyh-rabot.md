@@ -16,9 +16,9 @@ oldId: 26
 
 <TR>
 <TD align=bottom  width="50%"></TD>
-<TD align=bottom><IMG height=139  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/km650i.jpg" width=120  border=0></TD>
-<TD align=bottom><IMG height=115  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/km700s.jpg" width=120  border=0></TD>
-<TD align=bottom><IMG height=110  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/ksm690profi.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=139  alt="Агрегаты высокого давления, моечное оборудование" src="/images/km650i.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=115  alt="Агрегаты высокого давления, моечное оборудование" src="/images/km700s.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=110  alt="Агрегаты высокого давления, моечное оборудование" src="/images/ksm690profi.jpg" width=120  border=0></TD>
 <TD align=bottom></TD>
 <TD align=bottom  width="50%"></TD></TR>
 <TR>
@@ -27,7 +27,7 @@ oldId: 26
 <TD align=middle><B>KM 700 S мех.</B></TD>
 <TD align=middle><B>KSM 690 Profi</B></TD>
 <TD align=middle></TD>
-<TD align=middle  width="50%"></TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net/admin/catalogue/images/spacer.gif" width=400  border=0> 
+<TD align=middle  width="50%"></TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="" width=400  border=0> 
 <TABLE class=" reTable reCellBordered" cellSpacing=0  cellPadding=3  width="100%" border=1>
 
 <TR>
@@ -63,19 +63,19 @@ oldId: 26
 <TD class=block  align=middle>480/700/-</TD>
 <TD class=block  align=middle>2800</TD>
 <TD class=block  align=middle>60</TD>
-<TD class=block  align=middle>56</TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net/admin/catalogue/images/spacer.gif" width=400  border=0> 
+<TD class=block  align=middle>56</TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="" width=400  border=0> 
 <TABLE class=" reTable reCellBordered" cellSpacing=0  cellPadding=5  width="100%" border=0>
 
 <TR>
 <TD align=bottom  width="50%"></TD>
-<TD align=bottom><IMG height=130  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/ksm750profi.jpg" width=120  border=0></TD>
-<TD align=bottom><IMG height=108  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/ksm950sbat.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=130  alt="Агрегаты высокого давления, моечное оборудование" src="/images/ksm750profi.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=108  alt="Агрегаты высокого давления, моечное оборудование" src="/images/ksm950sbat.jpg" width=120  border=0></TD>
 <TD align=bottom  width="50%"></TD></TR>
 <TR>
 <TD align=middle  width="50%"></TD>
 <TD align=middle><B>KSM 750 Profi</B></TD>
 <TD align=middle><B>KSM 950 S Bat</B></TD>
-<TD align=middle  width="50%"></TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net/admin/catalogue/images/spacer.gif" width=400  border=0> 
+<TD align=middle  width="50%"></TD></TR></TABLE><IMG height=10  alt="Агрегаты высокого давления, моечное оборудование" src="" width=400  border=0> 
 <TABLE class=" reTable reCellBordered" cellSpacing=0  cellPadding=3  width="100%" border=1>
 
 <TR>

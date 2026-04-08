@@ -36,7 +36,7 @@ oldId: 9
 <P align=center>Масса, Кг</P></TD></TR>
 <TR>
 <TD width=200>
-<P align=center><IMG height=168  alt=32.5Kb  src="http://motorteh.net//images/idaf_1_1.png" width=126  border=0></P></TD>
+<P align=center><IMG height=168  alt=32.5Kb  src="/images/idaf_1_1.png" width=126  border=0></P></TD>
 <TD class=block  align=middle  width=180><B>G 109-C I 1106A-M (4м шланг)</B></TD>
 <TD class=block  align=middle>110</TD>
 <TD class=block  align=middle>360</TD>
@@ -45,7 +45,7 @@ oldId: 9
 <TD class=block  align=middle>6</TD></TR>
 <TR>
 <TD width=200  rowSpan=2><BR>
-<P align=center><IMG height=216  alt=37Kb  src="http://motorteh.net//images/idaf_2.png" width=111  border=0></P></TD>
+<P align=center><IMG height=216  alt=37Kb  src="/images/idaf_2.png" width=111  border=0></P></TD>
 <TD class=block  align=middle  width=180>
 <P align=center><B>G 129-C I 1106A-M (6м шланг)</B></P></TD>
 <TD class=block  align=middle>110</TD>
@@ -62,7 +62,7 @@ oldId: 9
 <TD class=block  align=middle>9</TD></TR>
 <TR>
 <TD width=200  rowSpan=3>
-<P align=center><IMG height=216  alt=31.1Kb  src="http://motorteh.net//images/idaf_3.png" width=88  border=0></P><BR><BR></TD>
+<P align=center><IMG height=216  alt=31.1Kb  src="/images/idaf_3.png" width=88  border=0></P><BR><BR></TD>
 <TD class=block  align=middle  width=180><B>G 134-C I 1207A-M (6м шланг)</B></TD>
 <TD class=block  align=middle>120</TD>
 <TD class=block  align=middle>380</TD>
@@ -85,7 +85,7 @@ oldId: 9
 <TD class=block  align=middle>23</TD></TR>
 <TR>
 <TD width=200>
-<P align=center><IMG height=225  alt=34.5Kb  src="http://motorteh.net//images/idaf_4.png" width=93  border=0></P></TD>
+<P align=center><IMG height=225  alt=34.5Kb  src="/images/idaf_4.png" width=93  border=0></P></TD>
 <TD class=block  align=middle  width=180><B>G 149-CP I 1508A-M (8м шланг)</B></TD>
 <TD class=block  align=middle>150</TD>
 <TD class=block  align=middle>500</TD>
@@ -94,7 +94,7 @@ oldId: 9
 <TD class=block  align=middle>25</TD></TR>
 <TR>
 <TD rowSpan=2>
-<P align=center><IMG height=120  alt=2.3Kb  src="http://motorteh.net//images/1_porto_1.jpg" width=57  border=0><IMG height=125  alt=2.4Kb  src="http://motorteh.net//images/1_porto_2.jpg" width=59  border=0><BR></P></TD>
+<P align=center><IMG height=120  alt=2.3Kb  src="/images/1_porto_1.jpg" width=57  border=0><IMG height=125  alt=2.4Kb  src="/images/1_porto_2.jpg" width=59  border=0><BR></P></TD>
 <TD class=block  width=180>
 <P align=center><B>G 131-C I1306A-M (5м шланг)</B></P></TD>
 <TD class=block  align=middle>
@@ -122,8 +122,8 @@ oldId: 9
 <P align=center>11</P></TD></TR>
 <TR>
 <TD rowSpan=12>
-<P align=center><IMG height=158  alt=3.5Kb  src="http://motorteh.net//images/1_porto_3.jpg" width=87  border=0></P>
-<P align=center><IMG height=164  alt=4.1Kb  src="http://motorteh.net//images/1_porto_4.jpg" width=100  border=0></P></TD>
+<P align=center><IMG height=158  alt=3.5Kb  src="/images/1_porto_3.jpg" width=87  border=0></P>
+<P align=center><IMG height=164  alt=4.1Kb  src="/images/1_porto_4.jpg" width=100  border=0></P></TD>
 <TD class=block  width=180>
 <P><B>G 135-C I 1307A-M (8м шланг)</B></P></TD>
 <TD class=block  align=middle>
@@ -250,8 +250,8 @@ oldId: 9
 <TD class=block  align=middle  bgColor=#eaeaea>Масса, Кг</TD></TR>
 <TR>
 <TD rowSpan=5>
-<P align=center><IMG height=78  alt=2.4Kb  src="http://motorteh.net//images/1_porto_5.jpg" width=132  border=0></P>
-<P align=center><IMG height=74  alt=2.7Kb  src="http://motorteh.net//images/1_porto_6.jpg" width=109  border=0></P></TD>
+<P align=center><IMG height=78  alt=2.4Kb  src="/images/1_porto_5.jpg" width=132  border=0></P>
+<P align=center><IMG height=74  alt=2.7Kb  src="/images/1_porto_6.jpg" width=109  border=0></P></TD>
 <TD class=block  width=180><B>ML CMP 2840 T (на раме)</B></TD>
 <TD class=block  align=middle>30 - 180</TD>
 <TD class=block  align=middle>300&nbsp;- 800</TD>
@@ -288,7 +288,7 @@ oldId: 9
 <TD class=block  align=middle>52</TD></TR>
 <TR>
 <TD rowSpan=4><BR>
-<P align=center><IMG height=127  alt=2.7Kb  src="http://motorteh.net//images/1_porto_7.jpg" width=71  border=0><IMG height=126  alt=2.7Kb  src="http://motorteh.net//images/1_porto_8.jpg" width=83  border=0></P></TD>
+<P align=center><IMG height=127  alt=2.7Kb  src="/images/1_porto_7.jpg" width=71  border=0><IMG height=126  alt=2.7Kb  src="/images/1_porto_8.jpg" width=83  border=0></P></TD>
 <TD class=block  width=180><B>G-POWER C 1509P M</B></TD>
 <TD class=block  align=middle>30 - 150</TD>
 <TD class=block  align=middle>300 - 540</TD>
@@ -318,7 +318,7 @@ oldId: 9
 <TD class=block  align=middle>30</TD></TR>
 <TR>
 <TD rowSpan=7>
-<P align=center><IMG height=121  alt=2.6Kb  src="http://motorteh.net//images/1_porto_9.jpg" width=85  border=0></P></TD>
+<P align=center><IMG height=121  alt=2.6Kb  src="/images/1_porto_9.jpg" width=85  border=0></P></TD>
 <TD class=block  width=180><B>N.ELITE-C 1310P M (NEW ELITE HH 1910 M)</B></TD>
 <TD class=block  align=middle>30 - 130</TD>
 <TD class=block  align=middle>300 - 600</TD>
@@ -369,7 +369,7 @@ oldId: 9
 <TD class=block  align=middle>44</TD></TR>
 <TR>
 <TD rowSpan=4>
-<P align=center><IMG height=124  alt=3.1Kb  src="http://motorteh.net//images/1_porto_11.jpg" width=89  border=0></P></TD>
+<P align=center><IMG height=124  alt=3.1Kb  src="/images/1_porto_11.jpg" width=89  border=0></P></TD>
 <TD class=block  width=180><B>ELITE 1910 M</B></TD>
 <TD class=block  align=middle>30 - 130</TD>
 <TD class=block  align=middle>300 - 600</TD>
@@ -399,7 +399,7 @@ oldId: 9
 <TD class=block  align=middle>44</TD></TR>
 <TR>
 <TD rowSpan=3>
-<P align=center><IMG height=136  alt=16Kb  src="http://motorteh.net//images/1_2.png" width=132  border=0></P></TD>
+<P align=center><IMG height=136  alt=16Kb  src="/images/1_2.png" width=132  border=0></P></TD>
 <TD class=block  width=180><B>PRESS-C 2117 P</B></TD>
 <TD class=block  align=middle>30 - 200</TD>
 <TD class=block  align=middle>650-1000</TD>
@@ -422,7 +422,7 @@ oldId: 9
 <TD class=block  align=middle>67</TD></TR>
 <TR>
 <TD rowSpan=4><BR>
-<P align=center><IMG height=126  alt=3.1Kb  src="http://motorteh.net//images/1_porto_20.jpg" width=93  border=0></P><BR></TD>
+<P align=center><IMG height=126  alt=3.1Kb  src="/images/1_porto_20.jpg" width=93  border=0></P><BR></TD>
 <TD class=block  width=180><B>NEW ROYAL DSHH 3160 T</B></TD>
 <TD class=block  align=middle>30 - 210</TD>
 <TD class=block  align=middle>450 - 1000</TD>
@@ -452,7 +452,7 @@ oldId: 9
 <TD class=block  align=middle>67</TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=111  alt=3.2Kb  src="http://motorteh.net//images/1_porto_21.jpg" width=84  border=0></P></TD>
+<P align=center><IMG height=111  alt=3.2Kb  src="/images/1_porto_21.jpg" width=84  border=0></P></TD>
 <TD class=block  width=180><B>EVOLUTION X5 DS 3670 T</B></TD>
 <TD class=block  align=middle>30 - 250</TD>
 <TD class=block  align=middle>1000</TD>
@@ -461,7 +461,7 @@ oldId: 9
 <TD class=block  align=middle>72</TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=116  alt=3.8Kb  src="http://motorteh.net//images/1_porto_22.jpg" width=126  border=0></P></TD>
+<P align=center><IMG height=116  alt=3.8Kb  src="/images/1_porto_22.jpg" width=126  border=0></P></TD>
 <TD class=block  width=180><B>SIBI MAX 5160 T</B></TD>
 <TD class=block  align=middle>350</TD>
 <TD class=block  align=middle>900</TD>
@@ -470,7 +470,7 @@ oldId: 9
 <TD class=block  align=middle>150</TD></TR>
 <TR>
 <TD rowSpan=3>
-<P align=center><IMG height=132  alt=4.1Kb  src="http://motorteh.net//images/1_porto_23.jpg" width=143  border=0></P></TD>
+<P align=center><IMG height=132  alt=4.1Kb  src="/images/1_porto_23.jpg" width=143  border=0></P></TD>
 <TD class=block  width=180><B>BENZ H 1811 Pi P (BENZ HS 2620P)</B></TD>
 <TD class=block  align=middle>30 - 180</TD>
 <TD class=block  align=middle>330 - 660</TD>

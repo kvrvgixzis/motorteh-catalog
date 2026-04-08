@@ -15,7 +15,7 @@ oldId: 11
 <TABLE cellSpacing=0  cellPadding=5  width="100%" border=0>
 
 <TR>
-<TD><IMG height=241  alt=41.4Kb  src="http://motorteh.net//images/pod_auto_resize.jpg" width=521  border=0></TD></TR></TABLE>
+<TD><IMG height=241  alt=41.4Kb  src="/images/pod_auto_resize.jpg" width=521  border=0></TD></TR></TABLE>
 <TABLE class=" reTable reCellBordered" cellSpacing=0  cellPadding=3  width="100%" border=1>
 
 <TR>

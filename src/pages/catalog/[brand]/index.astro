@@ -33,6 +33,12 @@ const { brandEntry, children } = Astro.props;
 const sortedChildren = children
   .filter((c: any) => !c.data.hidden)
   .sort((a: any, b: any) => a.data.sort - b.data.sort);
+
+let BrandContent: any = null;
+if (brandEntry?.body?.trim() && sortedChildren.length === 0) {
+  const rendered = await render(brandEntry);
+  BrandContent = rendered.Content;
+}
 ---
 
 <BaseLayout title={`${brandEntry?.data?.title || brand} — Мотор технология`}>
@@ -53,8 +59,10 @@ const sortedChildren = children
         </a>
       ))}
     </div>
-  ) : brandEntry?.body?.trim() ? (
-    <div class="content-html" set:html={brandEntry.body} />
+  ) : BrandContent ? (
+    <div class="content-html">
+      <BrandContent />
+    </div>
   ) : (
     <p>Раздел в разработке</p>
   )}

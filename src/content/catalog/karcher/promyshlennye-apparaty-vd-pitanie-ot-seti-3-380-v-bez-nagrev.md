@@ -16,10 +16,10 @@ oldId: 20
 
 <TR>
 <TD Align=bottom  width="50%"></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (6.4Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190876702.jpg&#039,255,255)" height=150  alt=3.8Kb  src="http://www.motorteh.net//images/preview.1190876702.jpg" width=150  border=0></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (5.6Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190877040.jpg&#039,255,255)" height=150  alt=3.3Kb  src="http://www.motorteh.net//images/preview.1190877040.jpg" width=150  border=0></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (6.5Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190877315.jpg&#039,255,255)" height=150  alt=3.8Kb  src="http://www.motorteh.net//images/preview.1190877315.jpg" width=150  border=0></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (10.4Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190877571.jpg&#039,255,255)" height=150  alt=5Kb  src="http://www.motorteh.net//images/preview.1190877571.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (6.4Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190876702.jpg&#039,255,255)" height=150  alt=3.8Kb  src="/images/preview.1190876702.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (5.6Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190877040.jpg&#039,255,255)" height=150  alt=3.3Kb  src="/images/preview.1190877040.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (6.5Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190877315.jpg&#039,255,255)" height=150  alt=3.8Kb  src="/images/preview.1190877315.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (10.4Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190877571.jpg&#039,255,255)" height=150  alt=5Kb  src="/images/preview.1190877571.jpg" width=150  border=0></TD>
 <TD Align=bottom  width="50%"></TD></TR>
 <TR>
 <TD align=middle  width="50%"></TD>

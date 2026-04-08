@@ -11,7 +11,7 @@ oldId: 54
 
 <TR>
 <TD class=topmenu  width="100%"><B>Пеногенераторы PROCAR</B></TD></TR></TABLE>
-<P><IMG border=0  alt=47.8Kb  src="http://motorteh.net//images/penogen_procar_resize.png" width=251  height=222></P>
+<P><IMG border=0  alt=47.8Kb  src="/images/penogen_procar_resize.png" width=251  height=222></P>
 <TABLE class=" reTable reCellBordered" border=0  cellSpacing=0  cellPadding=3  width="100%">
 
 <TR>
@@ -50,7 +50,7 @@ oldId: 54
 <TABLE border=0  cellSpacing=0  cellPadding=5  width="100%" bgColor=#eaeaea>
 
 <TR>
-<TD class=topmenu  width="100%"><B>Пеногенераторы Meclube</B></TD></TR></TABLE><IMG border=0  alt=52.5Kb  src="http://motorteh.net//images/penogen_meclube_1.png" width=204  height=196> 
+<TD class=topmenu  width="100%"><B>Пеногенераторы Meclube</B></TD></TR></TABLE><IMG border=0  alt=52.5Kb  src="/images/penogen_meclube_1.png" width=204  height=196> 
 <TABLE class=" reTable reCellBordered" border=0  cellSpacing=0  cellPadding=3  width="100%">
 
 <TR>
@@ -77,7 +77,7 @@ oldId: 54
 <TABLE border=0  cellSpacing=0  cellPadding=5  width="100%" bgColor=#eaeaea>
 
 <TR>
-<TD class=topmenu  width="100%"><B>Пеногенераторы Fabbri</B></TD></TR></TABLE><IMG border=0  alt=66.5Kb  src="http://motorteh.net//images/fabbri_ponogen_fin_pic_2.png" width=205  height=210> 
+<TD class=topmenu  width="100%"><B>Пеногенераторы Fabbri</B></TD></TR></TABLE><IMG border=0  alt=66.5Kb  src="/images/fabbri_ponogen_fin_pic_2.png" width=205  height=210> 
 <TABLE class=" reTable reCellBordered" border=0  cellSpacing=0  cellPadding=3  width="100%">
 
 <TR>
@@ -113,7 +113,7 @@ oldId: 54
 
 <TR>
 <TD class=topmenu  width="100%"><B>Пенокомплект</B></TD></TR></TABLE>
-<P><IMG border=0  alt=16.4Kb  src="http://motorteh.net//images/Penokomplekt_1_2.png" width=205  height=106></P>
+<P><IMG border=0  alt=16.4Kb  src="/images/Penokomplekt_1_2.png" width=205  height=106></P>
 <P>&nbsp;</P>
 <P>
 <TABLE class=" reTable reCellBordered" border=1  cellSpacing=0  cellPadding=3  width="100%">
@@ -121,34 +121,34 @@ oldId: 54
 <TR>
 <TD class=block  rowSpan=6  align=middle>
 <P><B>Пенообразователь (пенораспылитель) LS3</B></P>
-<P><IMG border=0  alt=23.4Kb  src="http://motorteh.net//images/Penoobrazovatel_1_1.png" width=183  height=306></P></TD>
+<P><IMG border=0  alt=23.4Kb  src="/images/Penoobrazovatel_1_1.png" width=183  height=306></P></TD>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=3.8Kb  src="http://motorteh.net//images/nasadka1.png" width=141  height=72></P></TD>
+<P><IMG border=0  alt=3.8Kb  src="/images/nasadka1.png" width=141  height=72></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (пластик) для KARCHER</P></TD></TR>
 <TR>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=2.8Kb  src="http://motorteh.net//images/nasadka_2_1.png" width=95  height=65></P></TD>
+<P><IMG border=0  alt=2.8Kb  src="/images/nasadka_2_1.png" width=95  height=65></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (латунь) для KARCHER</P></TD></TR>
 <TR>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=4.8Kb  src="http://motorteh.net//images/nasadka_3.png" width=140  height=69></P></TD>
+<P><IMG border=0  alt=4.8Kb  src="/images/nasadka_3.png" width=140  height=69></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (латунь) для PORTOTECNICA</P></TD></TR>
 <TR>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=4.1Kb  src="http://motorteh.net//images/nasadka_3_1.png" width=145  height=70></P></TD>
+<P><IMG border=0  alt=4.1Kb  src="/images/nasadka_3_1.png" width=145  height=70></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (металлический) для FAIP, LAVOR, STIHL</P></TD></TR>
 <TR>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=3.7Kb  src="http://motorteh.net//images/nasadka_3_2.png" width=127  height=54></P></TD>
+<P><IMG border=0  alt=3.7Kb  src="/images/nasadka_3_2.png" width=127  height=54></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (пластиковый) для ANNOVI REVERBERI, BOSCH</P></TD></TR>
 <TR>
 <TD class=block  align=middle>
-<P><IMG border=0  alt=3.4Kb  src="http://motorteh.net//images/nasadka_3_3.png" width=153  height=43></P></TD>
+<P><IMG border=0  alt=3.4Kb  src="/images/nasadka_3_3.png" width=153  height=43></P></TD>
 <TD class=block  align=middle>
 <P>Адаптер (пластиковый) для ANNOVI REVERBERI, LAVOR, ALTO</P></TD></TR></TABLE></P>
 <TABLE class=" reTable reCellBordered" border=0  cellSpacing=0  cellPadding=3  width="100%">
@@ -168,7 +168,7 @@ oldId: 54
 <P align=center><B>Давление воды, бар</B></P></TD></TR>
 <TR>
 <TD class=block  width=180>
-<P align=center><B><IMG border=0  alt=11.2Kb  src="http://motorteh.net//images/24310.970_2.jpg" width=225  height=225></B></P></TD>
+<P align=center><B><IMG border=0  alt=11.2Kb  src="/images/24310.970_2.jpg" width=225  height=225></B></P></TD>
 <TD class=block  align=middle>
 <P align=center>DOSATRON</P></TD>
 <TD>

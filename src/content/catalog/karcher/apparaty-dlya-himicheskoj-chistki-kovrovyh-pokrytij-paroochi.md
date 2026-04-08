@@ -17,10 +17,10 @@ oldId: 24
 <table border="0" width="100%" cellspacing="0" cellpadding="5">
 <tr>
 <td valign="bottom" width="50%"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/puzzi100super.jpg" width="120" height="73"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/puzzi200.jpg" width="120" height="135"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/de4002.jpg" width="120" height="94"></td>
-<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/pw10.jpg" width="120" height="173"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/puzzi100super.jpg" width="120" height="73"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/puzzi200.jpg" width="120" height="135"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/de4002.jpg" width="120" height="94"></td>
+<td valign="bottom"><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/pw10.jpg" width="120" height="173"></td>
 <td valign="bottom" width="50%"></td>
 </tr>
 <tr>

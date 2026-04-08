@@ -16,9 +16,9 @@ oldId: 21
 
 <TR>
 <TD Align=bottom  width="50%"></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (9.5Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190879509.jpg&#039,255,255)" height=150  alt=5.1Kb  src="http://www.motorteh.net//images/preview.1190879509.jpg" width=150  border=0></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (10Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190879797.jpg&#039,255,255)" height=150  alt=5.2Kb  src="http://www.motorteh.net//images/preview.1190879797.jpg" width=150  border=0></TD>
-<TD Align=bottom><IMG class=reImage  title="Увеличить (8Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190879979.jpg&#039,255,255)" height=150  alt=4.4Kb  src="http://www.motorteh.net//images/preview.1190879979.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (9.5Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190879509.jpg&#039,255,255)" height=150  alt=5.1Kb  src="/images/preview.1190879509.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (10Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190879797.jpg&#039,255,255)" height=150  alt=5.2Kb  src="/images/preview.1190879797.jpg" width=150  border=0></TD>
+<TD Align=bottom><IMG class=reImage  title="Увеличить (8Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190879979.jpg&#039,255,255)" height=150  alt=4.4Kb  src="/images/preview.1190879979.jpg" width=150  border=0></TD>
 <TD Align=bottom  width="50%"></TD></TR>
 <TR>
 <TD align=middle  width="50%"></TD>

@@ -30,7 +30,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=172  alt=25.8Kb  src="http://motorteh.net//images/sot1.png" width=131  border=0></P></TD>
+<P align=center><IMG height=172  alt=25.8Kb  src="/images/sot1.png" width=131  border=0></P></TD>
 <TD>
 <P align=center>PANDA 515 XP PLAST</P></TD>
 <TD>
@@ -43,7 +43,7 @@ oldId: 31
 <P align=center>27</P></TD></TR>
 <TR>
 <TD rowSpan=2><BR>
-<P align=center><IMG height=163  alt=23.5Kb  src="http://motorteh.net//images/sot2.png" width=107  border=0></P>
+<P align=center><IMG height=163  alt=23.5Kb  src="/images/sot2.png" width=107  border=0></P>
 <P align=center><BR></P></TD>
 <TD>
 <P align=center>PANDA 429 GA XP PLAST</P></TD>
@@ -68,7 +68,7 @@ oldId: 31
 <P align=center>62</P></TD></TR>
 <TR>
 <TD rowSpan=2><BR>
-<P align=center><IMG height=157  alt=19.1Kb  src="http://motorteh.net//images/sot3.png" width=106  border=0></P></TD>
+<P align=center><IMG height=157  alt=19.1Kb  src="/images/sot3.png" width=106  border=0></P></TD>
 <TD>
 <P align=center>PANDA 429 GA XP PLAST</P></TD>
 <TD>
@@ -112,7 +112,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=178  alt=32.1Kb  src="http://motorteh.net//images/soteco_1.png" width=119  border=0></P></TD>
+<P align=center><IMG height=178  alt=32.1Kb  src="/images/soteco_1.png" width=119  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 215 Inox</P></TD>
 <TD>
@@ -125,7 +125,7 @@ oldId: 31
 <P align=center>26</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=203  alt=35.8Kb  src="http://motorteh.net//images/soteco_2_1.png" width=120  border=0></P></TD>
+<P align=center><IMG height=203  alt=35.8Kb  src="/images/soteco_2_1.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 503 Inox</P></TD>
 <TD>
@@ -138,7 +138,7 @@ oldId: 31
 <P align=center>32</P></TD></TR>
 <TR>
 <TD rowSpan=2>
-<P align=center><IMG height=224  alt=36.8Kb  src="http://motorteh.net//images/soteco_3.png" width=120  border=0></P></TD>
+<P align=center><IMG height=224  alt=36.8Kb  src="/images/soteco_3.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 423 Inox</P></TD>
 <TD>
@@ -162,7 +162,7 @@ oldId: 31
 <P align=center>63</P></TD></TR>
 <TR>
 <TD rowSpan=4>
-<P align=center><IMG height=171  alt=28.3Kb  src="http://motorteh.net//images/soteco_4.png" width=118  border=0></P></TD>
+<P align=center><IMG height=171  alt=28.3Kb  src="/images/soteco_4.png" width=118  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 629 Inox</P></TD>
 <TD>
@@ -228,7 +228,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></B></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=224  alt=43.9Kb  src="http://motorteh.net//images/soteco_5.png" width=120  border=0></P></TD>
+<P align=center><IMG height=224  alt=43.9Kb  src="/images/soteco_5.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 429 FLOWMIX Inox </P></TD>
 <TD>
@@ -241,7 +241,7 @@ oldId: 31
 <P align=center>63</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=285  alt=55.8Kb  src="http://motorteh.net//images/soteco_6.png" width=180  border=0></P></TD>
+<P align=center><IMG height=285  alt=55.8Kb  src="/images/soteco_6.png" width=180  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 629 FLOWMIX Inox </P></TD>
 <TD>
@@ -274,7 +274,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></B></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=245  alt=66.6Kb  src="http://motorteh.net//images/soteco_6_1.png" width=160  border=0></P></TD>
+<P align=center><IMG height=245  alt=66.6Kb  src="/images/soteco_6_1.png" width=160  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 600 MARK NX 3FLOW Inox </P></TD>
 <TD>
@@ -307,7 +307,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></B></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=204  alt=30.5Kb  src="http://motorteh.net//images/soteco_7.png" width=120  border=0></P></TD>
+<P align=center><IMG height=204  alt=30.5Kb  src="/images/soteco_7.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 504 JUSTO Inox </P></TD>
 <TD>
@@ -320,7 +320,7 @@ oldId: 31
 <P align=center>32</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=230  alt=35.9Kb  src="http://motorteh.net//images/soteco_8.png" width=117  border=0></P></TD>
+<P align=center><IMG height=230  alt=35.9Kb  src="/images/soteco_8.png" width=117  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 503 2ST TC SP13D Inox с розеткой 2,3кВ</P></TD>
 <TD>
@@ -353,7 +353,7 @@ oldId: 31
 <P align=center><B>Объем бака, Л</B></P></B></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=274  alt=46.9Kb  src="http://motorteh.net//images/soteco_14.png" width=120  border=0></P></TD>
+<P align=center><IMG height=274  alt=46.9Kb  src="/images/soteco_14.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO V640M</P></TD>
 <TD>
@@ -366,7 +366,7 @@ oldId: 31
 <P align=center>65</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=118  alt=21.6Kb  src="http://motorteh.net//images/soteco_15.png" width=122  border=0></P></TD>
+<P align=center><IMG height=118  alt=21.6Kb  src="/images/soteco_15.png" width=122  border=0></P></TD>
 <TD>
 <P align=center>TORNADO PLANET 50</P></TD>
 <TD>

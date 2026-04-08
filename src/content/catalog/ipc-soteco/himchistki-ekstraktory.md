@@ -30,7 +30,7 @@ oldId: 32
 <P align=center><B>Объем бака, Л</B></P></B></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=164  alt=26.5Kb  src="http://motorteh.net//images/soteco_9.png" width=102  border=0></P></TD>
+<P align=center><IMG height=164  alt=26.5Kb  src="/images/soteco_9.png" width=102  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 200 </P></TD>
 <TD>
@@ -43,7 +43,7 @@ oldId: 32
 <P align=center>27/6,2</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=190  alt=29.8Kb  src="http://motorteh.net//images/soteco_10.png" width=120  border=0></P></TD>
+<P align=center><IMG height=190  alt=29.8Kb  src="/images/soteco_10.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 200 IDRO (с водяным фильтром)</P></TD>
 <TD>
@@ -56,7 +56,7 @@ oldId: 32
 <P align=center>27/6,2</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=194  alt=28Kb  src="http://motorteh.net//images/soteco_11.png" width=120  border=0></P></TD>
+<P align=center><IMG height=194  alt=28Kb  src="/images/soteco_11.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 300</P></TD>
 <TD>
@@ -69,7 +69,7 @@ oldId: 32
 <P align=center>32/11</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=185  alt=28.9Kb  src="http://motorteh.net//images/soteco_12.png" width=121  border=0></P></TD>
+<P align=center><IMG height=185  alt=28.9Kb  src="/images/soteco_12.png" width=121  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 400 Spot</P></TD>
 <TD>
@@ -82,7 +82,7 @@ oldId: 32
 <P align=center>36/11</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=173  alt=29.1Kb  src="http://motorteh.net//images/soteco_13.png" width=120  border=0></P></TD>
+<P align=center><IMG height=173  alt=29.1Kb  src="/images/soteco_13.png" width=120  border=0></P></TD>
 <TD>
 <P align=center>TORNADO 700 Inox</P></TD>
 <TD>

@@ -33,7 +33,7 @@ oldId: 16
 <P align=center><B>Масса, Кг</B></P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=132  alt=3.5Kb  src="http://motorteh.net//images/p1.jpg" width=113  border=0></P></TD>
+<P align=center><IMG height=132  alt=3.5Kb  src="/images/p1.jpg" width=113  border=0></P></TD>
 <TD>
 <P align=center>PLUS 1 W 1 22 P (MIRAGE SUPER)</P></TD>
 <TD>
@@ -48,7 +48,7 @@ oldId: 16
 <P align=center>10,5</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=116  alt=2.7Kb  src="http://motorteh.net//images/p2.jpg" width=126  border=0></P></TD>
+<P align=center><IMG height=116  alt=2.7Kb  src="/images/p2.jpg" width=126  border=0></P></TD>
 <TD>
 <P align=center>PLUS 1 W 1 32 S (MIRAGE PLUS)</P></TD>
 <TD>
@@ -63,7 +63,7 @@ oldId: 16
 <P align=center>11,5</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=144  alt=3.9Kb  src="http://motorteh.net//images/P3.jpg" width=99  border=0></P></TD>
+<P align=center><IMG height=144  alt=3.9Kb  src="/images/P3.jpg" width=99  border=0></P></TD>
 <TD>
 <P align=center>PLUS 1 W 2 60 S GA (MIRAGE EXTRA MAX)</P></TD>
 <TD>

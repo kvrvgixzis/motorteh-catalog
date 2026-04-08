@@ -16,9 +16,9 @@ oldId: 18
 
 <TR>
 <TD align=bottom  width="50%"></TD>
-<TD align=bottom><IMG class=reImage  title="Увеличить (4.1Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190368339.jpg&#039,255,255)" height=150  alt=2.6Kb  src="http://www.motorteh.net//images/preview.1190368339.jpg" width=150  border=0></TD>
-<TD align=bottom><IMG class=reImage  title="Увеличить (5.8Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1190368451.jpg&#039,255,255)" height=150  alt=3.5Kb  src="http://www.motorteh.net//images/preview.1190368451.jpg" width=150  border=0></TD>
-<TD align=bottom><IMG alt="Агрегаты высокого давления, моечное оборудование" src="http://www.motorteh.net//images/k5500.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG class=reImage  title="Увеличить (4.1Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190368339.jpg&#039,255,255)" height=150  alt=2.6Kb  src="/images/preview.1190368339.jpg" width=150  border=0></TD>
+<TD align=bottom><IMG class=reImage  title="Увеличить (5.8Kb)" onclick="return rOpenImageWindow(&#039/images/image.1190368451.jpg&#039,255,255)" height=150  alt=3.5Kb  src="/images/preview.1190368451.jpg" width=150  border=0></TD>
+<TD align=bottom><IMG alt="Агрегаты высокого давления, моечное оборудование" src="/images/k5500.jpg" width=120  border=0></TD>
 <TD align=bottom  width="50%"></TD></TR>
 <TR>
 <TD align=middle  width="50%"></TD>

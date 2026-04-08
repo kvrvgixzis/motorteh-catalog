@@ -7,7 +7,7 @@ oldId: 57
 
 <div class="content-html">
 
-<P><IMG height=160  alt=38.9Kb  src="http://motorteh.net//images/Hydroworker_the_whole_list.jpg" width=775  border=0></P>
+<P><IMG height=160  alt=38.9Kb  src="/images/Hydroworker_the_whole_list.jpg" width=775  border=0></P>
 <TABLE class="reTable reCellBordered" cellSpacing=0  cellPadding=0  width="100%" border=0>
 
 <TR>

@@ -43,7 +43,7 @@ oldId: 10
 <P align=center><b>Масса, Кг</b></P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=124  alt=3.4Kb  src="http://motorteh.net//images/paro1.jpg" width=135  border=0></P></TD>
+<P align=center><IMG height=124  alt=3.4Kb  src="/images/paro1.jpg" width=135  border=0></P></TD>
 <TD>
 <P align=center>New Steamy S 5008 M (NEW STEAMY)</P></TD>
 <TD>
@@ -62,7 +62,7 @@ oldId: 10
 <P align=center>12</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=134  alt=3.4Kb  src="http://motorteh.net//images/paro2.jpg" width=141  border=0></P></TD>
+<P align=center><IMG height=134  alt=3.4Kb  src="/images/paro2.jpg" width=141  border=0></P></TD>
 <TD>
 <P align=center>Steamer Jet S 5010 M (STEAMER JET M II)</P></TD>
 <TD>

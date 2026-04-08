@@ -16,10 +16,10 @@ oldId: 17
 
 <TR>
 <TD align=bottom  width="50%"></TD>
-<TD align=bottom><IMG src="http://www.motorteh.net//images/k520m.jpg" width=120  border=0></TD>
-<TD align=bottom><IMG height=239  alt=22.9Kb  src="http://www.motorteh.net//images/image.1187240119.jpg" width=157  border=0></TD>
-<TD align=bottom><IMG height=275  src="http://www.motorteh.net//images/k720mx.jpg" width=120  border=0></TD>
-<TD align=bottom><IMG height=255  alt=23.1Kb  src="http://www.motorteh.net//images/image.1187240755.jpg" width=157  border=0></TD>
+<TD align=bottom><IMG src="/images/k520m.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=239  alt=22.9Kb  src="/images/image.1187240119.jpg" width=157  border=0></TD>
+<TD align=bottom><IMG height=275  src="/images/k720mx.jpg" width=120  border=0></TD>
+<TD align=bottom><IMG height=255  alt=23.1Kb  src="/images/image.1187240755.jpg" width=157  border=0></TD>
 <TD align=bottom  width="50%"></TD></TR>
 <TR>
 <TD align=middle  width="50%"></TD>

@@ -14,7 +14,7 @@ oldId: 50
 <TR>
 <TD bgColor=#eaeaea>
 <P align=center><B>ПРОФЕССИОНАЛЬНАЯ СЕРИЯ</B></P></TD></TR></TABLE></P>
-<P><IMG class=" reImage" title="AR 7800 Увеличить (131.8Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1184834618.jpg&#039,509,528)" height=200  alt=7.3Kb  src="http://www.motorteh.net//images/preview.1184834618.jpg" width=193  border=0><IMG class=" reImage" title="AR 8820 Увеличить (117Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1184834650.jpg&#039,465,467)" height=200  alt=7.4Kb  src="http://www.motorteh.net//images/preview.1184834650.jpg" width=199  border=0><IMG class=reImage  title="Увеличить (71.6Kb)" onclick="return rOpenImageWindow(&#039http://www.motorteh.net//images/image.1185531206.jpg&#039,306,300)" height=199  alt=7.7Kb  src="http://www.motorteh.net//images/preview.1185531206.jpg" width=203  border=0></P>
+<P><IMG class=" reImage" title="AR 7800 Увеличить (131.8Kb)" onclick="return rOpenImageWindow(&#039/images/image.1184834618.jpg&#039,509,528)" height=200  alt=7.3Kb  src="/images/preview.1184834618.jpg" width=193  border=0><IMG class=" reImage" title="AR 8820 Увеличить (117Kb)" onclick="return rOpenImageWindow(&#039/images/image.1184834650.jpg&#039,465,467)" height=200  alt=7.4Kb  src="/images/preview.1184834650.jpg" width=199  border=0><IMG class=reImage  title="Увеличить (71.6Kb)" onclick="return rOpenImageWindow(&#039/images/image.1185531206.jpg&#039,306,300)" height=199  alt=7.7Kb  src="/images/preview.1185531206.jpg" width=203  border=0></P>
 <P>
 <TABLE class="reTable reCellBordered" cellSpacing=0  cellPadding=0  width="100%" border=0>
 

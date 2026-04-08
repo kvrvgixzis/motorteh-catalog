@@ -17,7 +17,7 @@ oldId: 15
 
 <table border="0" width="100%" cellspacing="0" cellpadding="5">
 <tr>
-<td><center><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="http://www.motorteh.net//images/14.jpg" width="500" height="200"></center></td>
+<td><center><img alt="Агрегаты высокого давления, моечное оборудование" border="0" src="/images/14.jpg" width="500" height="200"></center></td>
 </tr>
 </table>
 <table class=" reTable reCellBordered" border="1" width="100%" cellspacing="0" cellpadding="3">
