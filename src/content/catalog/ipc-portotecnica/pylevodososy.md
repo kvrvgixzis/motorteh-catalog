@@ -54,7 +54,7 @@ oldId: 13
 <P align=center>10</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=116  alt=2.6Kb  src="/images/Porto_2.jpg" width=77  border=0></P></TD>
+<P align=center><IMG height=116  alt=2.6Kb  src="/images/porto_2.jpg" width=77  border=0></P></TD>
 <TD>
 <P align=center>MIRAGE 1 W 1 32 S (MIRAGE 1515)</P></TD>
 <TD>
@@ -69,7 +69,7 @@ oldId: 13
 <P align=center>10</P></TD></TR>
 <TR>
 <TD rowSpan=2>
-<P align=center><IMG height=134  alt=3Kb  src="/images/Porto_3.jpg" width=78  border=0></P></TD>
+<P align=center><IMG height=134  alt=3Kb  src="/images/porto_3.jpg" width=78  border=0></P></TD>
 <TD>
 <P align=center>MIRAGE 1 W 2 61 S GA (MIRAGE 1529 GA)</P></TD>
 <TD>
@@ -97,7 +97,7 @@ oldId: 13
 <P align=center>15,5</P></TD></TR>
 <TR>
 <TD rowSpan=2>
-<P align=center><IMG height=145  alt=4.4Kb  src="/images/Porto_4.jpg" width=108  border=0></P></TD>
+<P align=center><IMG height=145  alt=4.4Kb  src="/images/porto_4.jpg" width=108  border=0></P></TD>
 <TD>
 <P align=center>MIRAGE 1 W 2 76 S (MIRAGE 1629)</P></TD>
 <TD>

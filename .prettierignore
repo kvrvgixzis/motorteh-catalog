@@ -1,0 +1,7 @@
+dist
+node_modules
+.astro
+_source
+public/images
+package-lock.json
+src/content/catalog

@@ -12,7 +12,7 @@ export async function getStaticPaths() {
       const brandSlug = parts[0];
       const catSlug = parts[1];
       const brandEntry = allEntries.find(
-        e => e.id === brandSlug || e.id === `${brandSlug}/index`
+        (e) => e.id === brandSlug || e.id === `${brandSlug}/index`,
       );
       paths.push({
         params: { brand: brandSlug, category: catSlug },
@@ -30,11 +30,18 @@ const { entry, brandEntry } = Astro.props;
 const { Content } = await render(entry);
 ---
 
-<BaseLayout title={`${entry.data.title} — Мотор технология`}>
+<BaseLayout
+  title={`${entry.data.title} — Мотор технология`}
+  description={`${entry.data.title} — ${brandEntry?.data?.title || brand}, Мотор технология`}
+  image={entry.data.icon}
+>
   <div class="breadcrumb">
-    <a href={base}>Главная</a> <span>›</span>
-    <a href={`${base}catalog/`}>Каталог</a> <span>›</span>
-    <a href={`${base}catalog/${brand}/`}>{brandEntry?.data?.title || brand}</a> <span>›</span>
+    <a href={base}>Главная</a>
+    <span>›</span>
+    <a href={`${base}catalog/`}>Каталог</a>
+    <span>›</span>
+    <a href={`${base}catalog/${brand}/`}>{brandEntry?.data?.title || brand}</a>
+    <span>›</span>
     {entry.data.title}
   </div>
 
