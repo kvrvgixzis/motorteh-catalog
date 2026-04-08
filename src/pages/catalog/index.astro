@@ -2,9 +2,9 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
+const base = import.meta.env.BASE_URL;
 const allEntries = await getCollection('catalog');
 
-// Top-level = entries whose id has no slash (or is "xxx/index")
 const brands = allEntries
   .filter(e => !e.id.includes('/') || e.id.endsWith('/index'))
   .filter(e => !e.data.hidden)
@@ -13,7 +13,7 @@ const brands = allEntries
 
 <BaseLayout title="Каталог — Мотор технология">
   <div class="breadcrumb">
-    <a href="/">Главная</a> <span>›</span> Каталог
+    <a href={base}>Главная</a> <span>›</span> Каталог
   </div>
 
   <h1>Каталог оборудования</h1>
@@ -22,8 +22,8 @@ const brands = allEntries
     {brands.map(brand => {
       const slug = brand.id.includes('/') ? brand.id.split('/')[0] : brand.id;
       return (
-        <a href={`/catalog/${slug}/`} class="brand-card">
-          {brand.data.icon && <img src={brand.data.icon} alt={brand.data.title} />}
+        <a href={`${base}catalog/${slug}/`} class="brand-card">
+          {brand.data.icon && <img src={`${base}${brand.data.icon.replace(/^\//, '')}`} alt={brand.data.title} />}
           <span>{brand.data.title}</span>
         </a>
       );

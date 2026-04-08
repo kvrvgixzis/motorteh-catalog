@@ -7,8 +7,7 @@ export async function getStaticPaths() {
 
   const brandSlugs = new Set<string>();
   for (const entry of allEntries) {
-    const parts = entry.id.split('/');
-    brandSlugs.add(parts[0]);
+    brandSlugs.add(entry.id.split('/')[0]);
   }
 
   const paths = [];
@@ -16,37 +15,30 @@ export async function getStaticPaths() {
     const brandEntry = allEntries.find(
       e => e.id === brandSlug || e.id === `${brandSlug}/index`
     );
-
     const children = allEntries.filter(
       e => e.id.startsWith(`${brandSlug}/`) && !e.id.endsWith('/index')
     );
-
     paths.push({
       params: { brand: brandSlug },
       props: { brandEntry, children },
     });
   }
-
   return paths;
 }
 
+const base = import.meta.env.BASE_URL;
 const { brand } = Astro.params;
 const { brandEntry, children } = Astro.props;
 
 const sortedChildren = children
   .filter((c: any) => !c.data.hidden)
   .sort((a: any, b: any) => a.data.sort - b.data.sort);
-
-let brandBody = '';
-if (brandEntry?.body?.trim()) {
-  brandBody = brandEntry.body;
-}
 ---
 
 <BaseLayout title={`${brandEntry?.data?.title || brand} — Мотор технология`}>
   <div class="breadcrumb">
-    <a href="/">Главная</a> <span>›</span>
-    <a href="/catalog/">Каталог</a> <span>›</span>
+    <a href={base}>Главная</a> <span>›</span>
+    <a href={`${base}catalog/`}>Каталог</a> <span>›</span>
     {brandEntry?.data?.title || brand}
   </div>
 
@@ -55,14 +47,14 @@ if (brandEntry?.body?.trim()) {
   {sortedChildren.length > 0 ? (
     <div class="category-grid">
       {sortedChildren.map((child: any) => (
-        <a href={`/catalog/${brand}/${child.id.split('/').pop()}/`} class="category-card">
-          {child.data.icon && <img src={child.data.icon} alt={child.data.title} />}
+        <a href={`${base}catalog/${brand}/${child.id.split('/').pop()}/`} class="category-card">
+          {child.data.icon && <img src={`${base}${child.data.icon.replace(/^\//, '')}`} alt={child.data.title} />}
           <span>{child.data.title}</span>
         </a>
       ))}
     </div>
-  ) : brandBody ? (
-    <div class="content-html" set:html={brandBody} />
+  ) : brandEntry?.body?.trim() ? (
+    <div class="content-html" set:html={brandEntry.body} />
   ) : (
     <p>Раздел в разработке</p>
   )}

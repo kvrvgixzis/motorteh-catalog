@@ -4,6 +4,7 @@ export interface Props {
 }
 
 const { title } = Astro.props;
+const base = import.meta.env.BASE_URL;
 ---
 
 <!DOCTYPE html>
@@ -13,16 +14,16 @@ const { title } = Astro.props;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{title}</title>
   <meta name="description" content="Продажа моечного оборудования. Компания Мотор технология, г. Нижний Новгород" />
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  <link rel="stylesheet" href="/styles/global.css" />
+  <link rel="icon" type="image/x-icon" href={`${base}favicon.ico`} />
+  <link rel="stylesheet" href={`${base}styles/global.css`} />
 </head>
 <body>
   <header>
     <nav>
-      <a href="/" class="logo">Мотор технология</a>
+      <a href={base} class="logo">Мотор технология</a>
       <div class="nav-links">
-        <a href="/catalog/">Каталог</a>
-        <a href="/contacts/">Контакты</a>
+        <a href={`${base}catalog/`}>Каталог</a>
+        <a href={`${base}contacts/`}>Контакты</a>
       </div>
     </nav>
   </header>

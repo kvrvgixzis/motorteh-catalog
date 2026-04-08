@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
 const brands = await getCollection('catalog');
+const base = import.meta.env.BASE_URL;
 const topLevel = brands
   .filter(b => !b.id.includes('/') || b.id.endsWith('/index'))
   .filter(b => !b.data.hidden)
@@ -28,8 +29,8 @@ const topLevel = brands
       {topLevel.map(brand => {
         const slug = brand.id.includes('/') ? brand.id.split('/')[0] : brand.id;
         return (
-          <a href={`/catalog/${slug}/`} class="brand-card">
-            {brand.data.icon && <img src={brand.data.icon} alt={brand.data.title} />}
+          <a href={`${base}catalog/${slug}/`} class="brand-card">
+            {brand.data.icon && <img src={`${base}${brand.data.icon.replace(/^\//, '')}`} alt={brand.data.title} />}
             <span>{brand.data.title}</span>
           </a>
         );

@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://placeholder.github.io',
-  base: '/',
+  site: 'https://kvrvgixzis.github.io',
+  base: '/motorteh-catalog/',
   output: 'static',
 });
