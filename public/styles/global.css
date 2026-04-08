@@ -14,6 +14,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   color: var(--color-text);
@@ -39,6 +43,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
+  width: 100%;
 }
 nav {
   max-width: var(--max-width);
@@ -78,6 +83,7 @@ main {
   padding: 2rem 1rem;
   width: 100%;
   flex: 1;
+  overflow-x: auto;
 }
 
 /* Hero */
@@ -141,6 +147,8 @@ main {
 .brand-card span {
   font-weight: 500;
   font-size: 0.95rem;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 /* Category list */
@@ -176,6 +184,9 @@ main {
 .category-card span {
   font-weight: 500;
   font-size: 0.9rem;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  min-width: 0;
 }
 
 /* Breadcrumb */
@@ -192,8 +203,11 @@ main {
 }
 
 /* Content (product tables from old site) */
+.content-html {
+  overflow-x: auto;
+  max-width: calc(100vw - 2rem);
+}
 .content-html table {
-  width: 100%;
   border-collapse: collapse;
   margin: 1rem 0;
   font-size: 0.9rem;
@@ -227,6 +241,22 @@ main {
 }
 .contact-card p {
   margin-bottom: 0.5rem;
+}
+.contact-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.5rem;
+  background: var(--color-primary);
+  color: #fff;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: opacity 0.2s;
+}
+.contact-btn:hover {
+  opacity: 0.85;
+  text-decoration: none;
+  color: #fff;
 }
 
 /* Footer */
