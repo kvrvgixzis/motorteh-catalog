@@ -1,0 +1,40 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const brands = await getCollection('catalog');
+const base = import.meta.env.BASE_URL;
+const topLevel = brands
+  .filter(b => !b.id.includes('/') || b.id.endsWith('/index'))
+  .filter(b => !b.data.hidden)
+  .sort((a, b) => a.data.sort - b.data.sort);
+---
+
+<BaseLayout title="Мотор технология — каталог моечного оборудования">
+  <section class="hero">
+    <h1>Компания «Мотор технология»</h1>
+    <p>Оснащение и реконструкция автомоечных комплексов, современное оборудование и материалы для уборки</p>
+  </section>
+
+  <section class="about">
+    <p>Предлагаем широкий ассортимент оборудования европейских производителей <strong>Interpump Group, IPC Portotecnica, IPC SOTECO, Annovi Reverberi, Karcher, Meclube</strong>: аппараты высокого давления, пылесосы влажной и сухой уборки, аппараты для химической чистки, парогенераторы, пеногенераторы, подметальные и поломоечные машины, водоочистное оборудование, компрессоры.</p>
+    <p>Полный ассортимент расходных материалов, моющих средств для автомоек и клининга <strong>Eurodet, Plex</strong>: шампуни для бесконтактной мойки, очистители дисков, очистители стекол, средства для химчистки, полироли, протирочные материалы.</p>
+    <p>Обеспечиваем комплексный подход: монтажные работы, гарантийное и послегарантийное обслуживание, оснащение инвентарём и расходными материалами. Проводим обучение и стажировку персонала.</p>
+    <p>Мы стремимся сделать сотрудничество максимально комфортным и эффективным. Готовы выехать к вам в любое удобное время.</p>
+  </section>
+
+  <section class="catalog-preview">
+    <h2>Каталог</h2>
+    <div class="brand-grid">
+      {topLevel.map(brand => {
+        const slug = brand.id.includes('/') ? brand.id.split('/')[0] : brand.id;
+        return (
+          <a href={`${base}catalog/${slug}/`} class="brand-card">
+            {brand.data.icon && <img src={`${base}${brand.data.icon.replace(/^\//, '')}`} alt={brand.data.title} />}
+            <span>{brand.data.title}</span>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

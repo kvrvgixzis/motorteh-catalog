@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allEntries = await getCollection('catalog');
+
+  const paths = [];
+  for (const entry of allEntries) {
+    const parts = entry.id.split('/');
+    if (parts.length === 2 && parts[1] !== 'index') {
+      const brandSlug = parts[0];
+      const catSlug = parts[1];
+      const brandEntry = allEntries.find(
+        e => e.id === brandSlug || e.id === `${brandSlug}/index`
+      );
+      paths.push({
+        params: { brand: brandSlug, category: catSlug },
+        props: { entry, brandEntry },
+      });
+    }
+  }
+  return paths;
+}
+
+const base = import.meta.env.BASE_URL;
+const { brand, category } = Astro.params;
+const { entry, brandEntry } = Astro.props;
+
+const { Content } = await render(entry);
+---
+
+<BaseLayout title={`${entry.data.title} — Мотор технология`}>
+  <div class="breadcrumb">
+    <a href={base}>Главная</a> <span>›</span>
+    <a href={`${base}catalog/`}>Каталог</a> <span>›</span>
+    <a href={`${base}catalog/${brand}/`}>{brandEntry?.data?.title || brand}</a> <span>›</span>
+    {entry.data.title}
+  </div>
+
+  <h1>{entry.data.title}</h1>
+
+  <div class="content-html">
+    <Content />
+  </div>
+</BaseLayout>
