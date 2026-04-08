@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <circle cx="16" cy="16" r="16" fill="#195daf"/>
-  <text x="16" y="22" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="18" fill="#fff">М</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><circle cx="16" cy="16" r="16" fill="#195daf"/><text x="16" y="22" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">М</text></svg>
