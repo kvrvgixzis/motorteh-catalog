@@ -70,6 +70,8 @@ nav {
 .nav-links a {
   color: rgba(255, 255, 255, 0.9);
   font-size: 0.95rem;
+  border-bottom: 2px solid transparent;
+  padding-bottom: 2px;
 }
 .nav-links a:hover {
   color: #fff;
@@ -77,8 +79,7 @@ nav {
 }
 .nav-links a.active {
   color: #fff;
-  border-bottom: 2px solid #fff;
-  padding-bottom: 2px;
+  border-bottom-color: #fff;
 }
 
 /* Main */
