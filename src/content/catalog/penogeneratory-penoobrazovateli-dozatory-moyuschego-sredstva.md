@@ -113,7 +113,7 @@ oldId: 54
 
 <TR>
 <TD class=topmenu  width="100%"><B>Пенокомплект</B></TD></TR></TABLE>
-<P><IMG border=0  alt=16.4Kb  src="/images/Penokomplekt_1_2.png" width=205  height=106></P>
+<P><IMG border=0  alt=16.4Kb  src="/images/penokomplekt_1_2.png" width=205  height=106></P>
 <P>&nbsp;</P>
 <P>
 <TABLE class=" reTable reCellBordered" border=1  cellSpacing=0  cellPadding=3  width="100%">
@@ -121,7 +121,7 @@ oldId: 54
 <TR>
 <TD class=block  rowSpan=6  align=middle>
 <P><B>Пенообразователь (пенораспылитель) LS3</B></P>
-<P><IMG border=0  alt=23.4Kb  src="/images/Penoobrazovatel_1_1.png" width=183  height=306></P></TD>
+<P><IMG border=0  alt=23.4Kb  src="/images/penoobrazovatel_1_1.png" width=183  height=306></P></TD>
 <TD class=block  align=middle>
 <P><IMG border=0  alt=3.8Kb  src="/images/nasadka1.png" width=141  height=72></P></TD>
 <TD class=block  align=middle>

@@ -126,7 +126,7 @@ oldId: 55
 <TD><B>RR 15.20 D XN</B></TD>
 <TD><B>Поток воды 1000 л/ч; Рабочее давление 210 бар; Обороты двигателя 1450 об/мин; Мощность 6,5 кВ;т Вес 7,6 кг Совместимость: для NEW ROYAL 3160, ML CMP 3065 (стационар)</B></TD></TR>
 <TR>
-<TD rowSpan=2><BR><BR><B><BR><IMG height=126  alt=30Kb  src="/images/Pompa_RK15.20__1.jpg" width=179  border=0></B><BR></TD>
+<TD rowSpan=2><BR><BR><B><BR><IMG height=126  alt=30Kb  src="/images/pompa_rk15.20__1.jpg" width=179  border=0></B><BR></TD>
 <TD><B></B></TD>
 <TD><B>RK15.20 H</B></TD>
 <TD><B>Поток воды 15л/мин; Рабочее давление&nbsp;200 бар; Обороты двигателя&nbsp;1450 об/мин; Мощность 5,5 кВт; Вес 7,5 кг </B></TD></TR>
@@ -255,7 +255,7 @@ oldId: 55
 <TD class=block  width=180><B><IMG height=218  alt=65.4Kb  src="/images/soplo_1.png" width=220  border=0></B></TD>
 <TD class=block  align=middle><B>Сопло трехпозиционное, 045, 055, вход-1/4 внутренняя</B></TD></TR>
 <TR>
-<TD class=block  width=180><B><IMG height=112  alt=2.1Kb  src="/images/F1.jpg" width=111  border=0></B></TD>
+<TD class=block  width=180><B><IMG height=112  alt=2.1Kb  src="/images/f1.jpg" width=111  border=0></B></TD>
 <TD class=block  align=middle>
 <P align=center><B>Форсункодержатель вращающийся</B></P>
 <P align=center><B>Нерж. сталь, макс. 310bar, 45 l/min, 150°C, 1/4внут-1/4внут</B></P></TD></TR>

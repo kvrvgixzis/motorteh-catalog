@@ -12,11 +12,9 @@ export async function getStaticPaths() {
 
   const paths = [];
   for (const brandSlug of brandSlugs) {
-    const brandEntry = allEntries.find(
-      e => e.id === brandSlug || e.id === `${brandSlug}/index`
-    );
+    const brandEntry = allEntries.find((e) => e.id === brandSlug || e.id === `${brandSlug}/index`);
     const children = allEntries.filter(
-      e => e.id.startsWith(`${brandSlug}/`) && !e.id.endsWith('/index')
+      (e) => e.id.startsWith(`${brandSlug}/`) && !e.id.endsWith('/index'),
     );
     paths.push({
       params: { brand: brandSlug },
@@ -41,29 +39,39 @@ if (brandEntry?.body?.trim() && sortedChildren.length === 0) {
 }
 ---
 
-<BaseLayout title={`${brandEntry?.data?.title || brand} — Мотор технология`}>
+<BaseLayout
+  title={`${brandEntry?.data?.title || brand} — Мотор технология`}
+  description={`${brandEntry?.data?.title || brand} — каталог оборудования, Мотор технология`}
+  image={brandEntry?.data?.icon}
+>
   <div class="breadcrumb">
-    <a href={base}>Главная</a> <span>›</span>
-    <a href={`${base}catalog/`}>Каталог</a> <span>›</span>
+    <a href={base}>Главная</a>
+    <span>›</span>
+    <a href={`${base}catalog/`}>Каталог</a>
+    <span>›</span>
     {brandEntry?.data?.title || brand}
   </div>
 
   <h1>{brandEntry?.data?.title || brand}</h1>
 
-  {sortedChildren.length > 0 ? (
-    <div class="category-grid">
-      {sortedChildren.map((child: any) => (
-        <a href={`${base}catalog/${brand}/${child.id.split('/').pop()}/`} class="category-card">
-          {child.data.icon && <img src={`${base}${child.data.icon.replace(/^\//, '')}`} alt={child.data.title} />}
-          <span>{child.data.title}</span>
-        </a>
-      ))}
-    </div>
-  ) : BrandContent ? (
-    <div class="content-html">
-      <BrandContent />
-    </div>
-  ) : (
-    <p>Раздел в разработке</p>
-  )}
+  {
+    sortedChildren.length > 0 ? (
+      <div class="category-grid">
+        {sortedChildren.map((child: any) => (
+          <a href={`${base}catalog/${brand}/${child.id.split('/').pop()}/`} class="category-card">
+            {child.data.icon && (
+              <img src={`${base}${child.data.icon.replace(/^\//, '')}`} alt={child.data.title} />
+            )}
+            <span>{child.data.title}</span>
+          </a>
+        ))}
+      </div>
+    ) : BrandContent ? (
+      <div class="content-html">
+        <BrandContent />
+      </div>
+    ) : (
+      <p>Раздел в разработке</p>
+    )
+  }
 </BaseLayout>

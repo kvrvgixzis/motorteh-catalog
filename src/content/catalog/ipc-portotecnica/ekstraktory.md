@@ -63,7 +63,7 @@ oldId: 16
 <P align=center>11,5</P></TD></TR>
 <TR>
 <TD>
-<P align=center><IMG height=144  alt=3.9Kb  src="/images/P3.jpg" width=99  border=0></P></TD>
+<P align=center><IMG height=144  alt=3.9Kb  src="/images/p3.jpg" width=99  border=0></P></TD>
 <TD>
 <P align=center>PLUS 1 W 2 60 S GA (MIRAGE EXTRA MAX)</P></TD>
 <TD>
